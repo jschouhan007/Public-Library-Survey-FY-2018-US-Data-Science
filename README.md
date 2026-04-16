@@ -38,4 +38,5 @@ The project encompasses Data Cleaning, Exploratory Data Analysis (EDA), Statisti
 ## 💻 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<Your-GitHub-Username>/US-Public-Libraries-Analysis.git
+   git clone [https://github.com/](https://github.com/)<jschouhan007>/Public-Library-Survey-FY-2018-US-Data-Science.git
+   
